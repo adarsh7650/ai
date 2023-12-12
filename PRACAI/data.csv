@@ -1,0 +1,9 @@
+Alt,Bar,Fri,Hun,Pat,Price,Rain,Res,Type,Est,result
+y,y,n,n,f,$$$,n,y,f,0-10,n
+n,y,n,y,f,$,n,n,t,30-60,y
+y,n,y,n,s,$,y,n,b,0-10,n
+n,y,y,y,f,$$$,y,n,t,10-30,n
+y,y,n,n,f,$,n,y,f,60,y
+n,n,y,y,s,$$$,y,n,b,0-10,n
+y,y,n,n,f,$,n,y,f,10-30,y
+n,n,y,y,s,$$$,y,n,b,60,n
